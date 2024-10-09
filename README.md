@@ -1,2 +1,2 @@
 # vol-vis
-visualizing options volatility using a volatility surface
+visualizing options volatility using a volatility surface in Manim
